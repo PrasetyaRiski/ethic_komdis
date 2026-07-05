@@ -130,7 +130,7 @@ Kontribusi, issues, dan feature requests sangat diterima!
 
 ## 📝 Lisensi
 
-Proyek ini adalah proyek akademis untuk keperluan pembelajaran blockchain dan smart contract.
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## 👥 Tim Pengembang
 
