@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  },
+  "scripts": {
+    "node": "npx hardhat node",
+    "compile": "npx hardhat compile"
+  }
+}
